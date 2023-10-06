@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any project that would increase my skills
 - 📫 How to reach me : You can contact my email "hazemgamaltaha3@yahoo.com"
 
+- LinkedIn Link --> https://www.linkedin.com/in/hazem-gamal-0a1171254/
+
 <!---
 HazemGamal1/HazemGamal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
